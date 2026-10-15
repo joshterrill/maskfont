@@ -1,6 +1,6 @@
 # maskfont
 
-Generate a font whose glyphs **display** one string while the underlying, text stays **something else**.
+Generate a font whose glyphs **display** one thing while the underlying text says **something else**.
 
 - Displayed text = `--input` (what you see)
 - Copied text = `--output` (what it actually says)
